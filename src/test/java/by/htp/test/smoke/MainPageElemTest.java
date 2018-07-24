@@ -19,4 +19,9 @@ public class MainPageElemTest {
 		Assert.assertEquals(elAct, elExp);
 	}
 	
+	@Test
+	public void testMainPageIsTrue() {
+		Assert.assertTrue(true);
+	}
+	
 }
